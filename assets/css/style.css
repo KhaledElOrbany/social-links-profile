@@ -66,3 +66,9 @@ h5 {
   justify-content: center;
   border-radius: 8px;
 }
+
+.social-account-card:hover {
+  cursor: pointer;
+  color:  hsl(0, 0%, 12%);
+  background-color: hsl(75, 94%, 57%);
+}
